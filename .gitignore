@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#dossier
+Dataset/transformed/*
+data_path.csv
+data_path_transformed.csv
+
 # C extensions
 *.so
 
